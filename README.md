@@ -1,4 +1,5 @@
 # DEP
+[![DOI](https://zenodo.org/badge/626436024.svg)](https://zenodo.org/badge/latestdoi/626436024)
 
 This repo contains data of DEP: Approximating Online Human Evaluation of Social Chatbots with Prompting.
 
@@ -107,3 +108,5 @@ Please cite [*] if you found the resources in this repository useful.
   year = {2023},
 }
 ```
+## License
+See the [LICENSE](LICENSE) file in the root repo folder for more details.
